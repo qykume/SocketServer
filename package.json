@@ -1,0 +1,21 @@
+{
+  "name": "SocketServer",
+  "version": "1.0.0",
+  "engines": {
+    "node": "7.8.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "bufferutil": "3.0.5",
+    "express": "4.16.3",
+    "utf-8-validate": "4.0.2",
+    "ws": "5.2.0"
+  }
+}
